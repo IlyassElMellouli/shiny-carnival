@@ -1,2 +1,2 @@
 # shiny-carnival
-Simple "hello world" in java
+Hello there, this is a simple "hello world" program written in java.
